@@ -15,4 +15,11 @@ module.exports = {
     },
   },
   plugins: [],
+  variants: {
+    extend:{
+      backgroundColor: ['group-hover'],
+      textColor: ['group-hover'],
+      button: ['group-hover'],
+    }
+  },
 }
