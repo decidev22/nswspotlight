@@ -1,7 +1,8 @@
 # This was a proposal to NSW Department of Customer Service on their Design System.
 
-## Following the principle of Web Accessibility, I proposed a spotlight feature which was missing from their Design System.
-## The following codes are written on Next13, TypeScript, React.js.
+### Following the principle of Web Accessibility, I proposed a spotlight feature which was missing from their Design System.
+### The purpose is to use NSW development style, and use what's already in the NSW GitHub repository to better suit the continuity of design and code.
+### The following codes are written on Next13, TypeScript, React.js.
 
 ### Simply download or clone the repository and run it on the local.
 ### There is also a live web for this repository. - https://nswspotlight.pages.dev/
